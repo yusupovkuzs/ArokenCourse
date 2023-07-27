@@ -10,7 +10,6 @@ settings.json
 {
     "workbench.startupEditor": "none",
     "workbench.colorTheme": "One Monokai 80s",
-    "files.autoSave": "afterDelay",
     "editor.guides.bracketPairs": true,
     "workbench.iconTheme": "vscode-icons",
     "htmltagwrap.tag": "div",
