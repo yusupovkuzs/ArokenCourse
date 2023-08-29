@@ -1,0 +1,10 @@
+.some-text {
+  font-family: 'Montserrat', "Arial", sans-serif;
+  font-size: 20px;
+  line-height: 50px;
+  font-weight: 700;
+  font-style: italic;
+} 
+.some-text-2 {
+  text-align: center;
+}
