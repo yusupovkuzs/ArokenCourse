@@ -1,0 +1,40 @@
+body {
+  font-size: 40px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.block,
+.inline {
+  background: #e0d5c5;
+}
+
+/* ===================================== */
+
+.block {
+  /* border: 10px dotted #000; */
+  /* 
+  border-top: 15px double green;
+  border-width: 10px;
+  border-style: groove;
+  border-color: aqua;
+
+  border-bottom-color: blue;
+  padding: 45px; */
+  /* border-radius: 100px 0 100px 0; */
+  outline: 10px dotted #000;
+}
+
+.square-block{
+  background: #000;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+img {
+  border-radius: 30px;
+  border: 10px double red;
+}

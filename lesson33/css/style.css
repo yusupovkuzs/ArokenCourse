@@ -1,0 +1,18 @@
+body {
+  font-size: 40px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.block,
+.inline {
+  background: #e0d5c5;
+}
+
+/* ===================================== */
+
+.block {
+  box-shadow: inset -10px 5px 10px #000, 10px 15px 20px red, 30px 40px 22px 30px blue;
+}
